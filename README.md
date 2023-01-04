@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phát</h1>
-<h3 align="center">A passionate frontend developer and business analysis from VietNam</h3>
+<h3 align="center">A fresher frontend developer and business analysis from VietNam</h3>
 <img align="right"  alt="Coding" width= "400" src = "https://scontent.fhan2-5.fna.fbcdn.net/v/t1.6435-9/118420437_1484357595089451_7670110034651017232_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=5Yz293IN968AX8gTIoz&_nc_ht=scontent.fhan2-5.fna&oh=00_AfCpE2d0INZZhpb5e9enLwDghUG1Orre9F9FvnFAx3RYbg&oe=63DCDCAA"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akiraphat18&label=Profile%20views&color=0e75b6&style=flat" alt="akiraphat18" /> </p>
