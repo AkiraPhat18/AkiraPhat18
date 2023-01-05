@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **html,css **
+- 💬 Ask me about **html,css**
 
 - 📫 How to reach me **phatnguyen19111997@gmail.com**
 
