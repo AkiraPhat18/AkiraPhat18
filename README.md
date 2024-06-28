@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akiraphat18&label=Profile%20views&color=0e75b6&style=flat" alt="akiraphat18" /> </p>
 
-- 🔭 I’m currently working on **Project of Mobifone**
+- 🔭 I’m currently working on **Busniess Analysis**
 
 - 🌱 I’m currently learning **Angular**
 
